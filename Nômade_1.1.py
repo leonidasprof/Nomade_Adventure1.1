@@ -1,3 +1,4 @@
+#testando o Git
 #Permite manipular dados estruturados (nesse caso, os csv/txt)
 import json
 #Trabalha com os dados tabulados
